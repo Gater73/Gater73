@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Gater73/Gater73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Gabriel! 
+I am a student of Analysis and systems development in University of Santo Amaro.
 
-Here are some ideas to get you started:
+I like these languages:
+- <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width = 25> [Python Language](https://www.python.org/)
+- <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width = 25> [C Language](www.iso.org/standard/74528.html)
+- <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/220px-Rustacean-orig-noshadow.svg.png" width = 25> [Rust Language](https://www.rust-lang.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Gater73&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Gater73&theme=dark&hide_border=true" width = 400>
+</p>
