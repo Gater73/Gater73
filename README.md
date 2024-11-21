@@ -1,6 +1,6 @@
 
 ## I am Gabriel! 
-I am a student of Analysis and systems development in University of Santo Amaro.
+I graduated in Analysis and systems development at University of Santo Amaro.
 
 I like these languages:
 - <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width = 25> [Python Language](https://www.python.org/)
