@@ -7,6 +7,11 @@ I like these languages:
 - <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width = 25> [C Language](www.iso.org/standard/74528.html)
 - <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/220px-Rustacean-orig-noshadow.svg.png" width = 25> [Rust Language](https://www.rust-lang.org/)
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Gater73&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Gater73&theme=dracula&hide_border=true" width = 400>
+</p>
+
 # My Projects
 ## [LSTS](https://github.com/Gater73/LSTS) (_Local Stock Tracking System_)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -55,8 +60,4 @@ This is a simple Todo app built with Python Flask and SQLAlchemy. The applicatio
 
 Linear Regression AI that calculates a student's G1 based on G2, G3, studytime, failures and absences using TensorFlow, Keras, Numpy and Pandas.
 
----
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Gater73&show_icons=true&theme=dracula&hide_border=true&hide_rank=true" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Gater73&theme=dracula&hide_border=true" width = 400>
-</p>
+
